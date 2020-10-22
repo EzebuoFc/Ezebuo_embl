@@ -1,5 +1,5 @@
 # Ezebuo_embl
-Day 4 is interating
+Day 4 is intersting because i am learning git
 
 
 
