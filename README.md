@@ -1,5 +1,5 @@
 # Ezebuo_embl
-Day 4 is intersting because i am learning
+Day 4 is intersting because i am learning git
 dopa and git
 
 
